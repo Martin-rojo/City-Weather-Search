@@ -6,24 +6,43 @@ A modern weather tracking application that allows users to search for weather co
 Features
 
 Real-time weather data retrieval
+
 City-based weather search
+
 5-day weather forecast
+
 Search history tracking
+
 Temperature in Fahrenheit
+
 Wind speed information
+
 Humidity levels
+
 Weather condition icons
+
 Responsive design
+
 Technologies Used
+
 TypeScript
+
 Node.js
+
 Express.js
+
 OpenWeatherMap API
+
 Fetch API
+
 Environment Variables
+
 File System Storage
+
 Installation
+
 Clone the repository:
+
 BASH
 
 How to use on local server:
